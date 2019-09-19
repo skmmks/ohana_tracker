@@ -1,0 +1,7 @@
+node_modules
+.idea
+.DS_Store
+personal-notes
+519ohana_dump.sql
+.env
+mysql_credentials.js
