@@ -1,4 +1,4 @@
-# Live Site - <a href="http://ohanatracker.com">Ohana Tracker</a> (Best viewed on mobile)
+# Live Demo - <a href="http://ohanatracker.com">Ohana Tracker</a> (Best viewed on mobile)
 <img src="ohanademo.gif">
 
 # Ohana Tracker 
