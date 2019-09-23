@@ -20,3 +20,15 @@ npm install
 npm run dev
 ```
 5. Navigate to `localhost:3001` to use application 
+
+# Technologies Used 
+1. Javascript 
+2. React.js
+3. Chart.js
+4. Bootstrap 4
+5. Node.js
+6. mySQL
+7. phpMyAdmin
+
+# Live Site 
+http://ohanatracker.com (Best viewed on mobile)
