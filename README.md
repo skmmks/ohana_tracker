@@ -1,3 +1,6 @@
+# Live Site - <a href="http://ohanatracker.com">Ohana Tracker</a> (Best viewed on mobile)
+<img src="ohanademo.gif">
+
 # Ohana Tracker 
 A mobile first application that allows users to log, track, and edit essential information pertaining to a newborn baby's health (e.g. feeding times, diaper changes, and nap times).  
 
@@ -29,6 +32,3 @@ npm run dev
 5. Node.js
 6. mySQL
 7. phpMyAdmin
-
-# Live Site 
-http://ohanatracker.com (Best viewed on mobile)
